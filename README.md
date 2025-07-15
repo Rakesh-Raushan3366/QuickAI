@@ -3,7 +3,7 @@
 [![Live Demo](https://img.shields.io/badge/Demo-Live%20Site-green?style=for-the-badge&logo=vercel)](https://quick-ai-two.vercel.app/)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Rakesh-Raushan3366/QuickAI?style=for-the-badge)
 
-![QuickAI Banner](https://via.placeholder.com/1200x400/2d3748/ffffff?text=QuickAI+-+AI+SaaS+Solution)
+![QuickAI Banner](assets/logo.svg)
 
 ## 🌟 Overview
 
