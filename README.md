@@ -61,7 +61,7 @@ QuickAI is a fully functional AI SaaS application with subscription billing, bui
 
 ## ✉️ Contact
 
-Rakesh Raushan - [@RakeshRaushan](https://twitter.com/RakeshRaushan) - rakesh@example.com
+Rakesh Raushan - [@RakeshRaushan](https://twitter.com/RakeshRaushan) - rakeshgnit3366@gmail.com.com
 
 Project Link: [https://github.com/Rakesh-Raushan3366/QuickAI](https://github.com/Rakesh-Raushan3366/QuickAI)  
 Live Site: [https://quick-ai-two.vercel.app/](https://quick-ai-two.vercel.app/)
